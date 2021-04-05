@@ -1,2 +1,3 @@
-# python_udemy_course
+# Python Udemy course
+
 Repository for working with demo scripts for learning and practicing Python
